@@ -1,2 +1,2 @@
-# TeideIntrandetWiki
-Intranet Wiki pages for Teide
+# Crap project
+does not contain anything
